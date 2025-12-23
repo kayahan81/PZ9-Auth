@@ -94,7 +94,7 @@ server.exe
 <img width="1427" height="260" alt="image" src="https://github.com/user-attachments/assets/5c2c0503-15f4-4ac4-b3f6-d7cce785b591" />
 
 
-#Ответы на вопросы
+# Ответы на вопросы
 
 1.	В чём разница между хранением пароля и хранением его хэша? Зачем соль? Почему bcrypt, а не SHA-256? 
 Хэширование vs. Шифрование
